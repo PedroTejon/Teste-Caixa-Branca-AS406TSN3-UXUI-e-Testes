@@ -1,6 +1,11 @@
 ## Exercício - Teste Caixa Branca - AS406TSN3 - UX/UI e Testes de Software
 Atividade feita para a matéria de UX/UI e Testes de Software (AS406TSN3) ministrada pelo Professor Daniel Ohata na Facens.
 
+### O que está sendo feito
+A partir do código base recebido pelo professor, está sendo feita a análise de erros e reportagem de possíveis correções, além da ilustração do fluxo do código a partir de um grafo de fluxo junto com seu cálculo de complexidade ciclomática e representação de caminhos básicos. Além disso, foi adicionado comentários no código base para permitir a criação de um JavaDoc a partir do código.
+
+O código base se tratava de uma classe Usuário com a capacidade de se conectar a um banco de dados MySql (a partir do método conectarDb) e verificar se existe um usuário com as credênciais passadas (com o método verificarUsuário).
+
 ### Erros encontrados no código original
 - O código apresenta uma organização inconsistente, como a falta de quebra de linhas e indentações em certos lugares, e de espaçamento insconsistente.
 - Estilo de nomenclatura inconsistente, com termos sendo utilizados ambos em inglês e português.
